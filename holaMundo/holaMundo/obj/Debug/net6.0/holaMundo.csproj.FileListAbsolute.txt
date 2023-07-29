@@ -1,0 +1,15 @@
+D:\EjerciciosC#\holaMundo\holaMundo\bin\Debug\net6.0\holaMundo.exe
+D:\EjerciciosC#\holaMundo\holaMundo\bin\Debug\net6.0\holaMundo.deps.json
+D:\EjerciciosC#\holaMundo\holaMundo\bin\Debug\net6.0\holaMundo.runtimeconfig.json
+D:\EjerciciosC#\holaMundo\holaMundo\bin\Debug\net6.0\holaMundo.dll
+D:\EjerciciosC#\holaMundo\holaMundo\bin\Debug\net6.0\holaMundo.pdb
+D:\EjerciciosC#\holaMundo\holaMundo\obj\Debug\net6.0\holaMundo.csproj.AssemblyReference.cache
+D:\EjerciciosC#\holaMundo\holaMundo\obj\Debug\net6.0\holaMundo.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosC#\holaMundo\holaMundo\obj\Debug\net6.0\holaMundo.AssemblyInfoInputs.cache
+D:\EjerciciosC#\holaMundo\holaMundo\obj\Debug\net6.0\holaMundo.AssemblyInfo.cs
+D:\EjerciciosC#\holaMundo\holaMundo\obj\Debug\net6.0\holaMundo.csproj.CoreCompileInputs.cache
+D:\EjerciciosC#\holaMundo\holaMundo\obj\Debug\net6.0\holaMundo.dll
+D:\EjerciciosC#\holaMundo\holaMundo\obj\Debug\net6.0\refint\holaMundo.dll
+D:\EjerciciosC#\holaMundo\holaMundo\obj\Debug\net6.0\holaMundo.pdb
+D:\EjerciciosC#\holaMundo\holaMundo\obj\Debug\net6.0\holaMundo.genruntimeconfig.cache
+D:\EjerciciosC#\holaMundo\holaMundo\obj\Debug\net6.0\ref\holaMundo.dll

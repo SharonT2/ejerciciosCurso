@@ -1,0 +1,15 @@
+D:\EjerciciosC#\tiposDatos\tiposDatos\obj\Debug\net6.0\tiposDatos.csproj.AssemblyReference.cache
+D:\EjerciciosC#\tiposDatos\tiposDatos\obj\Debug\net6.0\tiposDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosC#\tiposDatos\tiposDatos\obj\Debug\net6.0\tiposDatos.AssemblyInfoInputs.cache
+D:\EjerciciosC#\tiposDatos\tiposDatos\obj\Debug\net6.0\tiposDatos.AssemblyInfo.cs
+D:\EjerciciosC#\tiposDatos\tiposDatos\obj\Debug\net6.0\tiposDatos.csproj.CoreCompileInputs.cache
+D:\EjerciciosC#\tiposDatos\tiposDatos\bin\Debug\net6.0\tiposDatos.exe
+D:\EjerciciosC#\tiposDatos\tiposDatos\bin\Debug\net6.0\tiposDatos.deps.json
+D:\EjerciciosC#\tiposDatos\tiposDatos\bin\Debug\net6.0\tiposDatos.runtimeconfig.json
+D:\EjerciciosC#\tiposDatos\tiposDatos\bin\Debug\net6.0\tiposDatos.dll
+D:\EjerciciosC#\tiposDatos\tiposDatos\bin\Debug\net6.0\tiposDatos.pdb
+D:\EjerciciosC#\tiposDatos\tiposDatos\obj\Debug\net6.0\tiposDatos.dll
+D:\EjerciciosC#\tiposDatos\tiposDatos\obj\Debug\net6.0\refint\tiposDatos.dll
+D:\EjerciciosC#\tiposDatos\tiposDatos\obj\Debug\net6.0\tiposDatos.pdb
+D:\EjerciciosC#\tiposDatos\tiposDatos\obj\Debug\net6.0\tiposDatos.genruntimeconfig.cache
+D:\EjerciciosC#\tiposDatos\tiposDatos\obj\Debug\net6.0\ref\tiposDatos.dll
