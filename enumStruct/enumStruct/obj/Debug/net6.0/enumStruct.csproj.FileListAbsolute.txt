@@ -1,0 +1,15 @@
+D:\EjerciciosC#\enumStruct\enumStruct\bin\Debug\net6.0\enumStruct.exe
+D:\EjerciciosC#\enumStruct\enumStruct\bin\Debug\net6.0\enumStruct.deps.json
+D:\EjerciciosC#\enumStruct\enumStruct\bin\Debug\net6.0\enumStruct.runtimeconfig.json
+D:\EjerciciosC#\enumStruct\enumStruct\bin\Debug\net6.0\enumStruct.dll
+D:\EjerciciosC#\enumStruct\enumStruct\bin\Debug\net6.0\enumStruct.pdb
+D:\EjerciciosC#\enumStruct\enumStruct\obj\Debug\net6.0\enumStruct.csproj.AssemblyReference.cache
+D:\EjerciciosC#\enumStruct\enumStruct\obj\Debug\net6.0\enumStruct.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosC#\enumStruct\enumStruct\obj\Debug\net6.0\enumStruct.AssemblyInfoInputs.cache
+D:\EjerciciosC#\enumStruct\enumStruct\obj\Debug\net6.0\enumStruct.AssemblyInfo.cs
+D:\EjerciciosC#\enumStruct\enumStruct\obj\Debug\net6.0\enumStruct.csproj.CoreCompileInputs.cache
+D:\EjerciciosC#\enumStruct\enumStruct\obj\Debug\net6.0\enumStruct.dll
+D:\EjerciciosC#\enumStruct\enumStruct\obj\Debug\net6.0\refint\enumStruct.dll
+D:\EjerciciosC#\enumStruct\enumStruct\obj\Debug\net6.0\enumStruct.pdb
+D:\EjerciciosC#\enumStruct\enumStruct\obj\Debug\net6.0\enumStruct.genruntimeconfig.cache
+D:\EjerciciosC#\enumStruct\enumStruct\obj\Debug\net6.0\ref\enumStruct.dll
